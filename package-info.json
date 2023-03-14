@@ -1,0 +1,11 @@
+{
+  "info": {
+     "name": "TestPackage",
+     "description": "Testtttt"
+  },
+  "triggers": {
+    "CommandTrigger": [
+      "test.trg"
+    ]
+  }
+}
