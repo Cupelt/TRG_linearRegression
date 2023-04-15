@@ -5,8 +5,8 @@
   },
   "triggers": {
     "CommandTrigger": [
-      "testing.trg",
-      "testing.json"
+      "linear_regression.trg",
+      "linear_regression.json"
     ]
   }
 }
