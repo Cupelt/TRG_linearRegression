@@ -1,7 +1,7 @@
 {
   "info": {
-     "name": "TestPackage",
-     "description": "Testtttt"
+     "name": "TRG_linearRegression",
+     "description": "Trigger Reactor code with linear regression at a low level"
   },
   "triggers": {
     "CommandTrigger": [
